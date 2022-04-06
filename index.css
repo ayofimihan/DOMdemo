@@ -1,0 +1,14 @@
+.inputs {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 10px 0;
+  display: block;
+  border: 1px solid grey;
+  border-radius: 4px;
+}
+#btn {
+  background-color: aquamarine;
+  margin: 5px;
+  border: 10px;
+  border-radius: 5px;
+}
